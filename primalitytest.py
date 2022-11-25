@@ -1,5 +1,5 @@
 # Write a program for primality test using Fermat method
-# func to calculate Power 
+
 def power(b,n):
     if n ==0:
         return 1
